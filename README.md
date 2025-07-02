@@ -30,6 +30,6 @@ npm run dev
 Add your screenshots like this:
 
 ```md
-![Home Page](./public/screenshots/ss.png)
-![Preview or Download ](./public/screenshots/preview.png)
+![Home Page](/screenshots/ss.png)
+![Preview or Download ](/screenshots/preview.png)
 ```
