@@ -1,8 +1,8 @@
-# ⚡ CV Creator Inline
+# CV Creator Inline
 
 Create slick CVs on the go. Edit text inline. See changes live. Download as PDF. No login. No fluff.
 
-### 🚀 Features
+### Features
 
 - Edit text inline (name, skills, etc.)
 - Instant preview
@@ -10,13 +10,13 @@ Create slick CVs on the go. Edit text inline. See changes live. Download as PDF.
 - No login required
 - Mobile-friendly AF
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - Next.js
 - TypeScript
 - Tailwind CSS
 
-### 📦 Setup
+### Setup
 
 ```bash
 git clone https://github.com/oranjan/cv-creator
@@ -28,4 +28,16 @@ npm run dev
 ### 📸 Screenshots
 
 ![Home Page](./public/screenshots/ss.png)  
+_Main editing interface with inline text editing_
+
 ![Preview or Download](./public/screenshots/preview.png)
+_Clean preview mode ready for PDF download_
+
+## Live Demo
+
+[View Live Demo](https://your-deployment-url.com)
+
+## Contact
+
+- GitHub: [@oranjan](https://github.com/oranjan)
+- Email: ranjnmehta@gmail.com
