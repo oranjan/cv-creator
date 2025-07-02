@@ -19,12 +19,17 @@ Create slick CVs on the go. Edit text inline. See changes live. Download as PDF.
 ### 📦 Setup
 
 ```bash
-git clone https://github.com/your-username/your-repo-name
-cd your-repo-name
+git clone https://github.com/oranjan/cv-creator
+cd cv-app
 npm install
 npm run dev
 ```
 
 ### 📸 Screenshots
 
-_(Drop screenshots in `/public` and update here)_
+Add your screenshots like this:
+
+```md
+![Home Page](./public/screenshots/ss.png)
+![Preview or Download ](./public/screenshots/preview.png)
+```
