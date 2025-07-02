@@ -27,9 +27,5 @@ npm run dev
 
 ### 📸 Screenshots
 
-Add your screenshots like this:
-
-```md
-![Home Page](/screenshots/ss.png)
-![Preview or Download ](/screenshots/preview.png)
-```
+![Home Page](/screenshots/ss.png)  
+![Preview or Download](/screenshots/preview.png)
