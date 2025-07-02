@@ -27,5 +27,5 @@ npm run dev
 
 ### 📸 Screenshots
 
-![Home Page](/screenshots/ss.png)  
-![Preview or Download](/screenshots/preview.png)
+![Home Page](./public/screenshots/ss.png)  
+![Preview or Download](./public/screenshots/preview.png)
